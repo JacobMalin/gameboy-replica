@@ -8,6 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="photos/angle.jpg" width="50%">
-  <img src="photos/front.jpg" width="50%">
+  <img src="photos/angle.jpg" width="49%">
+  <img src="photos/front.jpg" width="49%">
 </p>
