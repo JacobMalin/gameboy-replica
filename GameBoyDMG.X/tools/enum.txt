@@ -1,0 +1,90 @@
+        ___, // The test cell. A left dark gray line and a gray bottom line with 
+        // a white background
+
+        /* Solids */
+        BK_, // A black cell
+        WH_, // A white cell
+        GY_, // A gray cell
+
+        /* Lines */
+        OVL, // A gray overline with a white background
+        UDL, // A white underline with a black background
+        LLN, // A black line on the left with a white background
+        VLN, // A vertical black line in the center with a white background
+        LWL, // A white left line with a black background
+
+        /* Letters */
+        // Black letters with a white background
+        A__, B__, C__, D__, E__, F__, G__, H__, I__, J__, K__, L__, M__, N__,
+        O__, P__, Q__, R__, S__, T__, U__, V__, W__, X__, Y__, Z__,
+        // Gray letters with a white background
+        A_G, B_G, C_G, E_G, F_G, O_G, P_G, T_G, Y_G,
+
+        /* Symbols */
+        // Black numbers with a white background
+        NB0, NB1, NB2, NB3, NB4, NB5, NB6, NB7, NB8, NB9,
+        // Gray numbers with a white background
+        G_0, G_1, G_2, G_3, G_4, G_5, G_6, G_7, G_8, G_9,
+        CPY, // A black copyright symbol with a white background
+        PLY, // A black play symbol with a white background
+        DSH, // A black dash with a white background
+        DSG, // A gray dash with a white background
+        DT1, DT2, DT3, // Black dots with a white background
+        PRD, // A black period with a white background
+        CMA, // A black comma with a white background
+        QOT, // A black double quote with a white background
+        PDQ, // A black double quote and a period with a white background
+        XXX, // A black x symbol with a white background
+
+        /* TETRIS title */
+        FM1, FM2, FM3, FM4, FM5, FM6, FM7, FM8, // The tetris title frame
+        // The tetris title
+        TS1, TS2, TS3, TS4, TS5, TS6, TS7, TS8, TS9, T10, T11, T12, T13, T14,
+        T15, T16, T17, T18, T19, T20, T21, T22, T23, T24, T25, T26, T27, T28,
+        T29, T30, T31, T32, T33, T34, T35, T36, T37, T38, T39, T40, T41, T42,
+        T43, T44, T45, T46, T47, T48,
+
+        /* Moscow scene */
+        SKY, // The sky of Moscow
+        ST1, ST2, // A small and large star
+        MN1, MN2, MN3, MN4, // The moon
+        // Foreground Moscow
+        MW1, MW2, MW3, MW4, MW5, MW6, MW7, MW8, MW9, M10, M11, M12, M13, M14,
+        M15, M16, M17, M18, M19, M20, M21, M22,
+        BG1, BG2, BG3, BG4, BG5, BG6, // Background Moscow buildings
+
+        /* N*ntendo logo */
+        ND1, ND2, ND3, ND4, ND5, ND6, // The N*ntendo logo
+
+        /* Menu */
+        MBG, // Menu background
+        MB1, MB2, MB3, MB4, MB5, MB6, MB7, MB8, // Menu border
+        // Round menu border
+        RB1, RB2, RB3, RB4, RB5, RB6, RB7, RB8, RB9, R10, R11, R12,
+        // Square menu border
+        SB1, SB2, SB3, SB4, SB5, SB6, SB7, SB8, SB9, S10, S11,
+        // Gray middle section of the square menu border
+        GB1, GB2, GB3, GB4, GB5,
+
+        /* Tetrominoes */
+        TI1, TI2, TI3, TI4, TI5, TI6,
+        TMJ, TML, TMO, TMS, TMT, TMZ,
+
+        /* Game */
+        BK1, BK2, BK3, BK4, BK5, BK6, BK7, BK8, // Blocks
+        // Double border
+        DB1, DB2, DB3, DB4, DB5, DB6, DB7, DB8, DB9, D10, D11,
+        PB1, PB2, PB3, PB4, PB5, PB6, PB7, PB8, // Preview border
+        SF1, SF2, SF3, SF4, SF5, SF6, // Score frame
+                
+        /* Game Over */
+        TSN, // Transition block
+        OB1, OB2, OB3, OB4, OB5, OB6, OB7, OB8, // Game over border
+        DL1, DL2, DL3, // Dot overline
+        HRT, // Heart
+                
+        /* N*ntendo Logo Screen */
+        // Big N*ntendo logo
+        BN1, BN2, BN3, BN4, BN5, BN6, BN7, BN8, BN9, B10, B11, B12, B13, B14, 
+        B15, B16, B17, B18, B19, B20, B21, B22, B23, B24, B25,
+        TDM, // A black trademark symbol with a white background

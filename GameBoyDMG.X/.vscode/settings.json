@@ -1,0 +1,19 @@
+{
+	"files.associations": {
+		"*.pl": "prolog",
+		"button.h": "c",
+		"window.h": "c",
+		"ext_input.h": "c",
+		"extender.h": "c",
+		"freertos.h": "c",
+		"heap_3.h": "c",
+		"input.h": "c",
+		"output.h": "c",
+		"speaker.h": "c",
+		"spi_client.h": "c",
+		"spi.h": "c",
+		"buttons.h": "c",
+		"display.h": "c",
+		"tetris.h": "c"
+	}
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>GameBoyDMG</name>
+            <creation-uuid>892e47c7-646a-4b73-a2fd-6c178f854e8a</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>.</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>addr</word>
+            <word>bh</word>
+            <word>cmd</word>
+            <word>cols</word>
+            <word>cond</word>
+            <word>crc</word>
+            <word>cs</word>
+            <word>dcx</word>
+            <word>func</word>
+            <word>init</word>
+            <word>lcd</word>
+            <word>memx</word>
+            <word>Nintendo</word>
+            <word>ntendo</word>
+            <word>overline</word>
+            <word>rand</word>
+            <word>rh</word>
+            <word>sd</word>
+            <word>str</word>
+            <word>tetrimino</word>
+            <word>tetriminoes</word>
+            <word>Tetris</word>
+            <word>Tetrominoes</word>
+            <word>Unmove</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
