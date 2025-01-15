@@ -1,5 +1,7 @@
 # Gameboy DMG Replica
 
+By: Jacob Malin
+
 <p align="center">
   <img src="photos/title.jpg" width="24%">
   <img src="photos/select.jpg" width="24%">
